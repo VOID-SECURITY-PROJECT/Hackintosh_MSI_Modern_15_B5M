@@ -1,5 +1,7 @@
 # MSI Modern 15 B5M 
 
+![text](https://github.com/VOID-SECURITY-PROJECT/Hackintosh_MSI_Modern_15_B5M/blob/main/sysinfo.jpeg)
+
 | Category | Component | Status |
 |----------|-----------|--------|
 | CPU | Ryzen 5625U | OK |
