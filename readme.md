@@ -11,6 +11,6 @@
 | Speaker | Realtek ALC256 | OK |
 | Mic | Realtek ALC256 | OK |
 | Card Reader | Realtek PCI-E Card Reader | OK |
-| WebCam | Component | OK |
+| WebCam | Bison Electronics | OK |
 | Keyboard | PS/2 Keyboard | OK |
-| Touchpad | HID-compliant mouse | OK |
+| Touchpad | HID-compliant mouse | OK | 
